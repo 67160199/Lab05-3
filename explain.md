@@ -171,6 +171,6 @@ const percentage = (score / questions.length) * 100;
 
 FINAL SCORE: 4/5 (80.0%)
 
-GRADE: B
+GRADE:B
 
 All activities completed!
